@@ -50,13 +50,6 @@
   tags: [news]
 
 ###
-### social
-###
-- title: web.de
-  href: https://web.de
-  tags: [social]
-
-###
 ### misc
 ###
 - title: amazon
@@ -69,6 +62,10 @@
 
 - title: whereis
   href: https://whereis.silverpeaks.de
+  tags: [misc]
+  
+- title: web.de
+  href: https://web.de
   tags: [misc]
 
 ###
