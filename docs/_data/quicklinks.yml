@@ -25,16 +25,9 @@
   href: https://dict.leo.org/frde
   tags: [search]
 
-- title: scd
-  href: https://scd.siemens.com
-  tags: [search]
-
 ###
 ### news
 ###
-- title: feed reader
-  href: https://c.pl31.de/paco/reader
-  tags: [news]
 
 - title: taz
   href: https://www.taz.de
@@ -42,10 +35,6 @@
 
 - title: zeit
   href: http://www.zeit.de
-  tags: [news]
-
-- title: spiegel
-  href: http://www.spiegel.de
   tags: [news]
 
 - title: kicker
