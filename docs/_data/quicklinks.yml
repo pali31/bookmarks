@@ -32,6 +32,10 @@
 - title: taz
   href: https://www.taz.de
   tags: [news]
+  
+- title: krautreporter
+  href: https://www.krautreporter.de
+  tags: [news]
 
 - title: zeit
   href: http://www.zeit.de
