@@ -5,4 +5,4 @@ This is a small repository to organize my
 
 # how to edit: 
 Click on docs, then click on data.
-Click on [quicklinks](https://github.com/pali31/bookmarks/blob/master/docs/_data/quicklinks.yml)
+(Or directly click on [quicklinks](https://github.com/pali31/bookmarks/blob/master/docs/_data/quicklinks.yml))
