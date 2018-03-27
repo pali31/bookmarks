@@ -13,16 +13,12 @@
   href: https://de.wikipedia.org
   tags: [search]
 
-- title: en.wikipedia.org
-  href: https://en.wikipedia.org
+- title: urban dictonary
+  href: https://www.urbandictionary.com/
   tags: [search]
 
 - title: leo en
   href: https://dict.leo.org/ende
-  tags: [search]
-
-- title: leo fr
-  href: https://dict.leo.org/frde
   tags: [search]
 
 ###
