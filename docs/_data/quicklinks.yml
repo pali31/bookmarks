@@ -1,11 +1,11 @@
 ###
 ### search
 ###
-- title: google
+- title: *google*
   href: https://www.google.de
   tags: [search]
 
-- title: google maps
+- title: _google maps_
   href: https://www.google.de/maps
   tags: [search]
 
@@ -117,4 +117,4 @@
   href: https://www.hanisauland.de/
   tags: [politics,education]
  
- https://linda.silverpeaks.de/index.php?showimage=675
+ ![wasserbüffel](https://linda.silverpeaks.de/index.php?showimage=675)
