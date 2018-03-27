@@ -1,11 +1,11 @@
 ###
 ### search
 ###
-- title: *google*
+- title: google
   href: https://www.google.de
   tags: [search]
 
-- title: _google maps_
+- title: google maps
   href: https://www.google.de/maps
   tags: [search]
 
