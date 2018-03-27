@@ -105,14 +105,14 @@
 ###
 ### work
 ###
-- title: bundeszentrale für politische bildung
+- title: bpb
   href: https://www.bpb.de/
   tags: [work,politics,education]
   
-- title: landeszentrale für politische bildung
+- title: lpd
   href: https://www.lpb-bw.de/
   tags: [work,politics,education]
   
-- title: hanisauland - bpb für kinder
+- title: hanisauland/bpb
   href: https://www.hanisauland.de/
   tags: [work,politics,education]
