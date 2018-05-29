@@ -1,4 +1,23 @@
 ###
+### karlsruhe
+###
+- title: Beteiligungsportal 
+  href: https://beteiligung.karlsruhe.de/
+  tags: [karlsruhe]
+  
+ - title: Stadtzeitung
+  href: http://presse.karlsruhe.de/db/stadtzeitung/jahr2018
+  tags: [karlsruhe] 
+ 
+ - title: Bürgergesellschaft
+  href: http://www.bg-suedstadt.de/
+  tags: [karlsruhe] 
+  
+  - title: Stadt KA
+  href: https://www.karlsruhe.de/
+  tags: [karlsruhe] 
+ 
+###
 ### search
 ###
 - title: google
