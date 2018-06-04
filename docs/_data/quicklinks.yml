@@ -74,6 +74,10 @@
 - title: amazon
   href: https://smile.amazon.de
   tags: [misc,shopping]
+  
+  - title: netflix
+  href: https://netflix.de
+  tags: [misc,films]
 
 - title: booking.com
   href: https://www.booking.com
